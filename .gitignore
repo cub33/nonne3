@@ -1,0 +1,15 @@
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+*.sqlite3
+
+hftoken.txt
+
+models/
+llama.cpp/
+temp/
+
+.DS_Store
